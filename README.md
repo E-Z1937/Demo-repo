@@ -1,2 +1,3 @@
 # Demo-repo
-Just a demo repository for practice.
+
+It's just a demo repository for practice.
